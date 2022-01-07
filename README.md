@@ -1,1 +1,1 @@
-Landing page for my astronomy page with HTML and CSS.
+Responsive landing page for my astronomy page with HTML and CSS.
